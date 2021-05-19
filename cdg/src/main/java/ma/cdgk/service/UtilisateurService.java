@@ -1,8 +1,8 @@
-package cdg.service;
+package ma.cdgk.service;
 
 import java.util.List;
 
-import cdg.entities.Utilisateur;
+import ma.cdgk.entities.Utilisateur;
 
 public interface UtilisateurService {
 	

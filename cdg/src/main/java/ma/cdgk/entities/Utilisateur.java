@@ -1,4 +1,4 @@
-package cdg.entities;
+package ma.cdgk.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
